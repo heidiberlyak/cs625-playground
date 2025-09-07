@@ -89,7 +89,8 @@ You will be required to write clearly about your visualization designs and desig
 
 In addition, see the [New Student Resources](https://weiglemc.github.io/new-student/#writing) collected by Dr. Weigle.
 
-## **Grading**
+## **Grading**  
+*Grading does not pertain to me as I am auditing course.*
 
 ### **Assignment Types**
 
