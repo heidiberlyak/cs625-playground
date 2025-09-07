@@ -97,7 +97,7 @@ It might be the case that your image is too large to be displayed well in your r
 
 `<img src="myDog.png" height="100" alt="This is a picture of my dog.">`
 
-**Important:** Do not drag and drop images into your report. This will look like it works, but the image files will not be added to your repo.
+**Important:** *Do not drag and drop images into your report. This will look like it works, but the image files will not be added to your repo.*
 
 #### Items for Report
 
